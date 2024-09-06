@@ -1,4 +1,4 @@
-
+![ORCA](assets/orca.png)
 
 # ORCA - Building ASMs made easy 
 
